@@ -1,5 +1,5 @@
 // Por qual motivo o código abaixo retorna com erros?
-
+//hehehe
 {
     var cor = 'preto';
     const marca = 'Fiat';
